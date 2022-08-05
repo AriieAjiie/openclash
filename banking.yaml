@@ -1,0 +1,17 @@
+payload:
+  # bca
+  - DOMAIN-SUFFIX,klikbca.com
+  - DOMAIN-SUFFIX,bca.co.id
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,tokopedia.com
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,linkaja.com
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,my-pertamina.id
+  - DOMAIN-SUFFIX,gojekapi.com
+  - DOMAIN-SUFFIX,grab.com
+  - DOMAIN-SUFFIX,grabtaxi.com
+  - DOMAIN-SUFFIX,grabpay.com
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,dana.id
+
